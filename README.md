@@ -8,8 +8,3 @@ I have been working on marketing, SEO and Wordpress since 2015. I've been develo
 - 🌱 I’m currently learning MERN
 - 💬 You can ask me anything
 - 📫 How to reach me: anil.caliskan@yandex.com
-
-<h3>A passionate MERN stack developer from Turkey</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" US/docs/Web/JavaScript" target="_blank" rel="noreferrer" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
